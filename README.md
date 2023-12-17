@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**rks2601/rks2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Rishabh Kumar Singh
+👋 Welcome to my GitHub profile! I'm passionate about Web development,cloud technologies and data analytics and you'll find a variety of projects here that reflect my skills and interests.
 
-Here are some ideas to get you started:
+# About Me
+💼 I am currently a Final year student at CV Raman Global University.
+🌱 I'm continuously learning and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Skills
+Programming Languages: C++, Java, Python, JavaScript
+Softwares: MS Office, MS PowerBI, VS Code, GitHub
+Database: MySQL and SQL
+
+# Connect with Me
+LinkedIn: https://www.linkedin.com/in/rishabhkumarsingh26/
+
+# How to Reach Me
+📧 Email: rishabhkumarsingh2601@gmail.com
+💬 GitHub Issues: Feel free to open an issue on any repository.
+Contribution and Collaboration
+I'm open to collaboration and contributions! If you find any issues in my projects or have suggestions, please don't hesitate to reach out or submit a pull request.
